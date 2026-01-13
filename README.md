@@ -1,4 +1,4 @@
-# 💬 WhatsApp Bulk Sender (Selenium)
+# 💬 Whatsapp newsletter (Selenium)
 
 Скрипт на Python для автоматической отправки сообщений через **WhatsApp Web**.  
 Работает на **macOS**, **Windows** и **Linux** с помощью фреймворка **Selenium**.  
